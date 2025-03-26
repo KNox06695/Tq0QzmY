@@ -21,7 +21,6 @@ packages/builder/mdist/
 packages/test/dist/
 packages/test/mdist/
 packages/react/dist/
-packages/react/mdist/
 
 # prebuilt modules/binaries
 /dist
