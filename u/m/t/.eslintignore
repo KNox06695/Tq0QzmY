@@ -6,5 +6,4 @@ examples
 **/*.mjs
 **/*.cjs
 integration-tests/tests/prisma/*/client
-integration-tests/tests/prisma/*/drizzle
 drizzle-kit/*
