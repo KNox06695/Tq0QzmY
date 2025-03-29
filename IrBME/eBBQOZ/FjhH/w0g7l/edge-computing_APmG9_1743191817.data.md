@@ -145,7 +145,6 @@ CI:
 * [Linux] Deprecate all CI workflows related to the manylinux2014 image
 * [nix] flake update and use LLVM 18 (#3839)
 * [macOS] The minimum macOS version is set to macos-13
-* [Misc] Fix build failure in Windows Server 2022 CI (#3899)
 
 Known issues:
 
