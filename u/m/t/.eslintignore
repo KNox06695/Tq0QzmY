@@ -5,5 +5,4 @@ examples
 **/*.js
 **/*.mjs
 **/*.cjs
-integration-tests/tests/prisma/*/client
 drizzle-kit/*
